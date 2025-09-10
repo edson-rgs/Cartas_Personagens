@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte dos meus estudos em JavaScript com foco em Programação Orientada a Objetos(poo)
 O objetivo foi criar um sitema de cartas de personagens, onde cada carta possui atributos e comportamentos, aplicando conceitos importantes de POO.
 
-# O que foi aprendindo
+# O que foi aprendido 
 
 Durante o desenvolvimento , explori os principais paradigmas da orientação a objetos no JavaScripts:
   # Classes e Objetos 
